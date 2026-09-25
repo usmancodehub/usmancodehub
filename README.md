@@ -104,7 +104,7 @@
 
 <div align="center">
 
-📫 **Reach me:** usman.mughal0770@gmail.com | ☎️ +92-324-5953435
+📫 **Reach me:** usman.mughal0770@gmail.com | ☎️ +92-316-7183374
 
 *"Reads books regularly to continuously learn new technologies and strengthen technical skills."*
 
