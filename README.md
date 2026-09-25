@@ -2,7 +2,7 @@
 
 ```
 ╔══════════════════════════════════════════════╗
-║   USMANCODEHUB   •   MERN STACK DEVELOPER     ║
+║   USMANCODEHUB   •   FULL STACK ENGINEER     ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -20,7 +20,7 @@
 ```json
 {
   "name"          : "Muhammad Usman",
-  "role"          : "MERN Stack Developer & App Developer",
+  "role"          : "FULL Stack Developer & App Developer",
   "location"      : "Gujranwala, Pakistan",
   "education"     : "BS Information Technology, University of the Punjab",
   "certification" : "Certified Ethical Hacker (CEH)",
